@@ -1,7 +1,7 @@
 let path = require('path');
 
 let conf = {
-    entry: './scripts/proxy/tests.js',
+    entry: './scripts/promises_async/task1/resolved_by_async_await/main.js',
     output: {
         path: path.resolve(__dirname, './js'),
         filename: 'main.js',
